@@ -1,0 +1,8 @@
+package: monika
+import:
+- package: github.com/PuerkitoBio/goquery
+  version: v1.3.0
+- package: github.com/labstack/gommon
+  version: 0.2.4
+  subpackages:
+  - log

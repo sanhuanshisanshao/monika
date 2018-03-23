@@ -1,0 +1,61 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "82cvcVnnl+RZUco1JEHp9jGe+tE=",
+			"path": "github.com/PuerkitoBio/goquery",
+			"revision": "2324bda66f504d95adef95070aeb15187b45d3cf",
+			"revisionTime": "2018-01-18T14:26:56Z"
+		},
+		{
+			"checksumSHA1": "Bgs5fKx4V8jxL/m/krOLmhS4az4=",
+			"path": "github.com/andybalholm/cascadia",
+			"revision": "349dd0209470eabd9514242c688c403c0926d266",
+			"revisionTime": "2016-12-24T14:14:13Z"
+		},
+		{
+			"checksumSHA1": "DgTRURWKlYk6FtfB8sgf8yeAF1w=",
+			"path": "github.com/labstack/gommon/color",
+			"revision": "2d272df536d051e737aea353b86c979d6e88bce0",
+			"revisionTime": "2016-10-23T20:04:48Z"
+		},
+		{
+			"checksumSHA1": "YA8UuM3xaqvcy3zJndynAIrOVjM=",
+			"path": "github.com/labstack/gommon/log",
+			"revision": "2d272df536d051e737aea353b86c979d6e88bce0",
+			"revisionTime": "2016-10-23T20:04:48Z"
+		},
+		{
+			"checksumSHA1": "92bat7DXsrlNbTjrN8q+rIKPTL4=",
+			"path": "github.com/mattn/go-colorable",
+			"revision": "6e26b354bd2b0fc420cb632b0d878abccdc6544c",
+			"revisionTime": "2016-11-02T08:09:25Z"
+		},
+		{
+			"checksumSHA1": "66/Mrpn74Ey6jE1v6SRp6YGLVEI=",
+			"path": "github.com/mattn/go-isatty",
+			"revision": "66b8e73f3f5cda9f96b69efd03dd3d7fc4a5cdb8",
+			"revisionTime": "2016-08-06T12:27:52Z"
+		},
+		{
+			"checksumSHA1": "VOCB6y5z1JxvIJXoWQolbg367PU=",
+			"path": "github.com/valyala/fasttemplate",
+			"revision": "3b874956e03f1636d171bda64b130f9135f42cff",
+			"revisionTime": "2016-03-15T19:31:34Z"
+		},
+		{
+			"checksumSHA1": "/PGQlVbw8jILX3tLQaYAg6bTAFI=",
+			"path": "golang.org/x/net/html",
+			"revision": "c73622c77280266305273cb545f54516ced95b93",
+			"revisionTime": "2017-06-11T01:16:46Z"
+		},
+		{
+			"checksumSHA1": "iWvOOLdDxvI4AVX6px6/HYBPeaQ=",
+			"path": "golang.org/x/net/html/atom",
+			"revision": "c73622c77280266305273cb545f54516ced95b93",
+			"revisionTime": "2017-06-11T01:16:46Z"
+		}
+	],
+	"rootPath": "monika"
+}
